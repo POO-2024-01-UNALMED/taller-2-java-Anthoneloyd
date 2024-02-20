@@ -16,7 +16,7 @@ public class Auto{
                 cantidadCreados++;
             }
 
-        return cantidadCreados
+        return cantidadCreados;
         }
     }
 
