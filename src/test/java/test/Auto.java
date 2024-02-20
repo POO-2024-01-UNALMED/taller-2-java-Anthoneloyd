@@ -15,9 +15,9 @@ public class Auto{
             if (this.asientos[i] != null) {
                 cantidadCreados++;
             }
-
-        return cantidadCreados;
         }
+
+    return cantidadCreados;
     }
 
     public String verificarIntegridad(){
